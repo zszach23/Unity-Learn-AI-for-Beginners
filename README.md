@@ -15,3 +15,4 @@ Download and extract the .zip file of the game. Navigate to the `Build` folder a
 * **Tank Battle** - Move a red tank around a world while a green tank calculates trajectories and fires shells at you.
   * Use `WASD` or Arrow Keys to move red tank around the world
   
+* **Tank Racing** - Tanks race around a circuit using a waypoint system
