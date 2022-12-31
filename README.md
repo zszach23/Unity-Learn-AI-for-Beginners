@@ -2,7 +2,7 @@
 
 My implementations of the projects following the tutorials from the AI for Beginners course on Unity Learn.
 
-To play:
+### How To Play: 
 
 Download and extract the .zip file of the game. Navigate to the `Build` folder and open the Unity Application file of the game.
 
