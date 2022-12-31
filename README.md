@@ -2,6 +2,10 @@
 
 My implementations of the projects following the tutorials from the AI for Beginners course on Unity Learn.
 
+To play:
+
+Download and extract the .zip file of the game. Navigate to the `Build` folder and open the Unity Application file of the game.
+
 ### Projects
 
 * **Tank AutoPilot** - Toggle an AutoPilot function to move a tank towards the fuel canister
