@@ -16,3 +16,6 @@ Download and extract the .zip file of the game. Navigate to the `Build` folder a
   * Use `WASD` or Arrow Keys to move red tank around the world
   
 * **Tank Racing** - Tanks race around a circuit using a waypoint system
+
+* **Tank Patrol** - Click buttons to send the tank to the area. Uses a waypoint system with graphs and the A* algorithm to find the shortest path
+from start to destination waypoint.
