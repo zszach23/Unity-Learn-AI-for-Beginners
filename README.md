@@ -21,6 +21,6 @@ Download and extract the .zip file of the game. Navigate to the `Build` folder a
 from start to destination waypoint.
 
 * **Path Finder** - Uses the A* algorithm to traverse a maze from a start to goal position
- * Press `P` to clean and generate new start and goal positions on the map
- * Press `C` to perform one step of the A* algorithm
- * Press `M` when the goal is reached to view the path taken
+  * Press `P` to clean and generate new start and goal positions on the map
+  * Press `C` to perform one step of the A* algorithm
+  * Press `M` when the goal is reached to view the path taken
