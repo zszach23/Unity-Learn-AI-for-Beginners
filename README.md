@@ -26,3 +26,5 @@ from start to destination waypoint.
   * Press `P` to clean and generate new start and goal positions on the map
   * Press `C` to perform one step of the A* algorithm
   * Press `M` when the goal is reached to view the path taken
+
+* **Station Navigation** - Click anywhere in view to set a destination for red and blue agents to go to. The agents use a NavMesh system to go to the point.
