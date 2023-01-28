@@ -32,3 +32,7 @@ from start to destination waypoint.
 * **Zombie Chaser** - Run as a zombie chases you throughout a warehouse. Uses a NavMesh system with off-mesh links to cross mesh gaps and drops.
   * Use `WASD` to move
   * Use `Space` to jump
+
+* **Guard Patrol** - A guard patrols an area. If guard can see you, he will chase and attack. If you sneak up behind him, he will run to the safe point.
+  * Use `WASD` to move
+  * Use `Space` to jump
