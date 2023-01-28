@@ -28,3 +28,7 @@ from start to destination waypoint.
   * Press `M` when the goal is reached to view the path taken
 
 * **Station Navigation** - Click anywhere in view to set a destination for red and blue agents to go to. The agents use a NavMesh system to go to the point.
+
+* **Zombie Chaser** - Run as a zombie chases you throughout a warehouse. Uses a NavMesh system with off-mesh links to cross mesh gaps and drops.
+  * Use `WASD` to move
+  * Use `Space` to jump
