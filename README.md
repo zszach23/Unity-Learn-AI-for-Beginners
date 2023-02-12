@@ -8,31 +8,75 @@ Download and extract the .zip file of the game. Navigate to the `Build` folder a
 
 ### Projects
 
-* **Tank AutoPilot** - Toggle an AutoPilot function to move a tank towards the fuel canister
-  * Use `T` to toggle autopilot mode
-  * Use `WASD` or Arrow Keys to move tank around world
+<details>
+ <summary><h4>Tank AutoPilot<h4></summary>
+ 
+ Toggle an AutoPilot function to move a tank towards the fuel canister
+   * Use `T` to toggle autopilot mode
+   * Use `WASD` or Arrow Keys to move tank around world
+</details>
 
-* **Tank Battle** - Move a red tank around a world while a green tank calculates trajectories and fires shells at you.
+<details>
+ <summary><h4>Tank Battle<h4></summary>
+ 
+ Move a red tank around a world while a green tank calculates trajectories and fires shells at you.
   * Use `WASD` or Arrow Keys to move red tank around the world
   
-* **Tank Racing** - Tanks race around a circuit using a waypoint system
+</details>
+  
+<details>
+ <summary><h4>Tank Racing<h4></summary>  
+ 
+Tanks race around a circuit using a waypoint system
 
-* **Tank Patrol** - Click buttons to send the tank to the area. Uses a waypoint system with graphs and the A* algorithm to find the shortest path
+</details>
+
+<details>
+ <summary><h4>Tank Patrol<h4></summary>
+ 
+Click buttons to send the tank to the area. Uses a waypoint system with graphs and the A* algorithm to find the shortest path
 from start to destination waypoint.
 
-* **Tank Patrol 2** - Click buttons to send the tank to the area. Uses a waypoint system and NavMesh to travel between locations.
+</details>
 
-* **Path Finder** - Uses the A* algorithm to traverse a maze from a start to goal position
+<details>
+ <summary><h4>Tank Patrol 2<h4></summary>
+ 
+Click buttons to send the tank to the area. Uses a waypoint system and NavMesh to travel between locations.
+
+</details>
+
+<details>
+ <summary><h4>Path Finder<h4></summary>
+
+Uses the A* algorithm to traverse a maze from a start to goal position
   * Press `P` to clean and generate new start and goal positions on the map
   * Press `C` to perform one step of the A* algorithm
   * Press `M` when the goal is reached to view the path taken
 
-* **Station Navigation** - Click anywhere in view to set a destination for red and blue agents to go to. The agents use a NavMesh system to go to the point.
+</details>
 
-* **Zombie Chaser** - Run as a zombie chases you throughout a warehouse. Uses a NavMesh system with off-mesh links to cross mesh gaps and drops.
+<details>
+ <summary><h4>Station Navigation<h4></summary>
+ 
+Click anywhere in view to set a destination for red and blue agents to go to. The agents use a NavMesh system to go to the point.
+
+</details>
+
+<details>
+ <summary><h4>Zombie Chaser<h4></summary>
+
+Run as a zombie chases you throughout a warehouse. Uses a NavMesh system with off-mesh links to cross mesh gaps and drops.
   * Use `WASD` to move
   * Use `Space` to jump
 
-* **Guard Patrol** - A guard patrols an area. If guard can see you, he will chase and attack. If you sneak up behind him, he will run to the safe point.
+</details>
+
+<details>
+ <summary><h4>Guard Patrol<h4></summary>
+ 
+A guard patrols an area. If the guard can see you, he will chase and attack. If you sneak up behind him, he will run to the safe point.
   * Use `WASD` to move
   * Use `Space` to jump
+  
+</details>
