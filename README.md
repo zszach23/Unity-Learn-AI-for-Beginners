@@ -1,6 +1,6 @@
 # Unity Learn: AI for Beginners
 
-My implementations of the projects following the tutorials from the AI for Beginners course on Unity Learn.
+My implementations of the projects following the tutorials from the [AI for Beginners course on Unity Learn](https://learn.unity.com/course/artificial-intelligence-for-beginners).
 
 ### How To Play: 
 
