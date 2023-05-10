@@ -75,7 +75,7 @@ Run as a zombie chases you throughout a warehouse. Uses a NavMesh system with of
 <details>
  <summary><h4>Guard Patrol<h4></summary>
  
-A guard patrols an area. If the guard can see you, he will chase and attack. If you sneak up behind him, he will run to the safe point.
+A guard patrols an area. If the guard can see you, he will chase and attack. If you sneak up behind him, he will run to the safe point. The guard uses a finite state machine to toggle between the different states, as NavMesh system and vector calculations to determine what to do within states.
   * Use `WASD` to move
   * Use `Space` to jump
   
@@ -84,7 +84,7 @@ A guard patrols an area. If the guard can see you, he will chase and attack. If 
 <details>
  <summary><h4>Cops & Robbers<h4></summary>
   
-The player is a cop chasing down a couple of robbers in the area. The robbers will wander around, hide behind obstalces, try to sneak up on the player, and evade based on the player's movement, look direction, and distance.
+The player is a cop chasing down a couple of robbers in the area. The robbers will wander around, hide behind obstacles, try to sneak up on the player, and evade based on the player's movement, look direction, and distance. Uses implementations of common steering behaviors for autonomously moving agents.
   * Use `WASD` to move.
 
   </details>
