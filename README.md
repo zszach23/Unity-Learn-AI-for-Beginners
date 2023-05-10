@@ -80,3 +80,11 @@ A guard patrols an area. If the guard can see you, he will chase and attack. If 
   * Use `Space` to jump
   
 </details>
+  
+<details>
+ <summary><h4>Cops & Robbers<h4></summary>
+  
+The player is a cop chasing down a couple of robbers in the area. The robbers will wander around, hide behind obstalces, try to sneak up on the player, and evade based on the player's movement, look direction, and distance.
+  * Use `WASD` to move.
+
+  </details>
