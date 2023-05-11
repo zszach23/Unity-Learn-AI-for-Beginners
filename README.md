@@ -88,3 +88,11 @@ The player is a cop chasing down a couple of robbers in the area. The robbers wi
   * Use `WASD` to move.
 
   </details>
+  
+<details>
+
+ <summary><h4>Fish Tank><h4></summary>
+  
+A basic simulation of a school of fish swimming within some set bounds. Uses flocking algorithm techniques to achieve a school like behavior.
+  
+</details?
