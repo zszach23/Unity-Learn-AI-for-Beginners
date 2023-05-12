@@ -96,3 +96,17 @@ The player is a cop chasing down a couple of robbers in the area. The robbers wi
 A basic simulation of a school of fish swimming within some set bounds. Uses flocking algorithm techniques to achieve a school like behavior.
   
   </details>
+  
+<details>
+ 
+ <summary><h4>Hospital Simulation<h4></summary>
+  
+A basic hospital simulation where patients come in and are treated by nurses. Uses a Goal-Oriented Action Planning (GOAP) Architecture, which includes a graph of different choices that a character can
+achieve based on their current state and the world state.
+  
+  * Nurse: Will go collect patients from the waiting room, bring them into a cubicle to treat the patient, and release the patient. If there are no patients waiting, they will go take a break in the staff lounge.
+  * Patients: Will arrive at hospital, register at the desk, go to waiing room, get picked up for treatment by a nurse, get treated, and then go home.
+  
+Uses an infinite spawner with random spawn intervals to keep simulation running.
+  
+</details>
