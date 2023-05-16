@@ -110,3 +110,11 @@ achieve based on their current state and the world state.
 Uses an infinite spawner with random spawn intervals to keep simulation running.
   
 </details>
+  
+<details>
+ 
+ <summary><h4>Jewelry Thief<h4></summary>
+  
+A simple simulation where a thief robs a gallery until he gets enough money. Implements a behavior tree, which repeatedly uses a sequence of nodes that make the thief's behavior. The thief will enter through an unlocked door, grab an item, and head back to the van. Each item he steals will increase the money he has earned. For every subsequent item he steals he will begin by checking through each door to make sure no one is outside, then continue on stealing. Once he gets enough money, he will drive off in the van. 
+
+  </details>
