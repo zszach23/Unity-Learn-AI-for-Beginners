@@ -105,7 +105,7 @@ A basic hospital simulation where patients come in and are treated by nurses. Us
 achieve based on their current state and the world state.
   
   * Nurse: Will go collect patients from the waiting room, bring them into a cubicle to treat the patient, and release the patient. If there are no patients waiting, they will go take a break in the staff lounge.
-  * Patients: Will arrive at hospital, register at the desk, go to waiing room, get picked up for treatment by a nurse, get treated, and then go home.
+  * Patients: Will arrive at hospital, register at the desk, go to waiting room, get picked up for treatment by a nurse, get treated, and then go home.
   
 Uses an infinite spawner with random spawn intervals to keep simulation running.
   
